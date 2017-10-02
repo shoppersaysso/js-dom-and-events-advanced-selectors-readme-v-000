@@ -1,7 +1,5 @@
 $(document).ready(function() {
-
-
-
+});
   function paragraphSelector(){
     $('p')
   };
@@ -21,5 +19,3 @@ $(document).ready(function() {
   function firstListItem(){
     $('ul li')
   };
-
-});
