@@ -15,7 +15,7 @@ $(document).ready(function() {
   };
 
   function divSelector(){
-
+    $('div')
   };
 
   function firstListItem(){
