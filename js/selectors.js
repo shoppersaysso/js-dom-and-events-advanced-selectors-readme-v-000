@@ -2,7 +2,8 @@ $(document).ready(function() {
 
 
 
-let paragraphSelector = function(){$('p')
+let paragraphSelector = () => {
+  $('p')
 }
 
   function lastImageSelector(){
