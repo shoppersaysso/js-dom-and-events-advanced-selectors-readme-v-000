@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 
 
-let paragraphSelector = () => {
-  $('p');
-}
+  function paragraphSelector(){
+    return $('p')
+  };
 
   function lastImageSelector(){
 
