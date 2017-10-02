@@ -1,7 +1,8 @@
 $(document).ready(function() {
 });
+
   function paragraphSelector(){
-    $('p')
+    $('p').innerHTML
   };
 
   function lastImageSelector(){
