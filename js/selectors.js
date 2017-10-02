@@ -3,7 +3,7 @@ $(document).ready(function() {
 
 
   function paragraphSelector(){
-    return $('#p')
+    return $('p')
   };
 
   function lastImageSelector(){
