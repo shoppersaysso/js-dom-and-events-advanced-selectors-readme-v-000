@@ -3,11 +3,11 @@ $(document).ready(function() {
 
 
   function paragraphSelector(){
-    $('p');
+    console.log($('p'));
   };
 
   function lastImageSelector(){
-
+    $()
   };
 
   function ninjaBabySelector(){
