@@ -1,21 +1,19 @@
+function paragraphSelector(){
+  return $('p');
+};
 
+function lastImageSelector(){
+  return $('img:last');
+};
 
-  function paragraphSelector(){
-    return $('p');
-  };
+function ninjaBabySelector(){
+  return $('#baby-ninja');
+};
 
-  function lastImageSelector(){
-    return $('img:last');
-  };
+function divSelector(){
+  return $('div');
+};
 
-  function ninjaBabySelector(){
-    return $('#baby-ninja');
-  };
-
-  function divSelector(){
-    return $('div');
-  };
-
-  function firstListItem(){
-    return $('ul li');
-  };
+function firstListItem(){
+  return $('ul li');
+};
