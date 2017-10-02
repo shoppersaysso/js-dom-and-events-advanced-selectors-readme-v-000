@@ -2,7 +2,7 @@ $(document).ready(function() {
 });
 
   function paragraphSelector(){
-    $('p').innerHTML
+    $('p')[0].innerHTML
   };
 
   function lastImageSelector(){
