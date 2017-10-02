@@ -3,7 +3,7 @@ $(document).ready(function() {
 
 
   function paragraphSelector(){
-    documnet.getElementById('id')('p')
+    documnet.getElementById('p')
   };
 
   function lastImageSelector(){
